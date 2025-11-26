@@ -36,7 +36,7 @@
 
 ### 📫 Let's Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/parth-pradhan1206/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/parth-pradhan1206/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://youtube.com/@sofvyrtv"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
   <a href="mailto:parth.pradhan@sofvyr.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
